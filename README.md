@@ -1,4 +1,4 @@
-For this mini-project, I'll be deconstructing athe google homepage and rebuilding it, as part of my Web Development 101 learning.
+For this mini-project, I'll be deconstructing the google homepage and rebuilding it, as part of my Web Development 101 learning.
 Once I've completed it I have proved I know how to do the following tasks:
 
     Two ways to move a div around on the page
